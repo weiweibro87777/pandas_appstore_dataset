@@ -1,0 +1,2 @@
+# pandas_appstore_dataset
+利用python的pandas套件對appstore dataset進行資料分析
